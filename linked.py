@@ -1,3 +1,5 @@
+# Linked list with Node/LinkedList classes
+
 class Node:
    def __init__( self, data ):
       self.data = data
@@ -55,7 +57,7 @@ List.RemoveNode( 2 )
 
 List.PrintList( )
 
-print '###########################'
+## Using python list library
 
 List = []
 
